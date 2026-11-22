@@ -266,17 +266,6 @@ This integration combines traditional deep learning classification with natural 
  Web browser
  Windows / Linux / macOS (depending on environment compatibility)
 
-## Running the Application
-
-From the project root, activate your virtual environment and run:
-
-bash
-python app.py
-
-When the Flask server starts, open the local application URL shown in the terminal. For a typical local Flask configuration, this may be:
-
-text
-http://127.0.0.1:5000
 
 ### Using the Application
 
